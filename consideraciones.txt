@@ -1,0 +1,3 @@
+este fichero quiero que luego sea ignorado
+
+Hemos vuelto del puento
